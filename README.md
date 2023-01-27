@@ -1,2 +1,2 @@
 # practice-bootstrap
-My first website project using Bootstrap framework
+My first website project using Bootstrap framework.
