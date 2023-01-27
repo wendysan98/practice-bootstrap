@@ -1,2 +1,2 @@
-# project-2-bootstrap
-Project membuat website dengan menggunakan framework Bootstrap
+# practice-bootstrap
+My first website project using Bootstrap framework
